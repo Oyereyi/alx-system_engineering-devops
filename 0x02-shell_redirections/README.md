@@ -1,1 +1,1 @@
-shell i/o redirection
+I/O shell redirection
